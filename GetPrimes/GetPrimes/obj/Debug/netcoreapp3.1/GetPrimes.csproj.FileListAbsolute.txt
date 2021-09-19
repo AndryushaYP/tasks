@@ -1,0 +1,14 @@
+C:\Users\badinfluence\Desktop\Csharp\GetPrimes\GetPrimes\bin\Debug\netcoreapp3.1\GetPrimes.exe
+C:\Users\badinfluence\Desktop\Csharp\GetPrimes\GetPrimes\bin\Debug\netcoreapp3.1\GetPrimes.deps.json
+C:\Users\badinfluence\Desktop\Csharp\GetPrimes\GetPrimes\bin\Debug\netcoreapp3.1\GetPrimes.runtimeconfig.json
+C:\Users\badinfluence\Desktop\Csharp\GetPrimes\GetPrimes\bin\Debug\netcoreapp3.1\GetPrimes.runtimeconfig.dev.json
+C:\Users\badinfluence\Desktop\Csharp\GetPrimes\GetPrimes\bin\Debug\netcoreapp3.1\GetPrimes.dll
+C:\Users\badinfluence\Desktop\Csharp\GetPrimes\GetPrimes\bin\Debug\netcoreapp3.1\GetPrimes.pdb
+C:\Users\badinfluence\Desktop\Csharp\GetPrimes\GetPrimes\obj\Debug\netcoreapp3.1\GetPrimes.csproj.AssemblyReference.cache
+C:\Users\badinfluence\Desktop\Csharp\GetPrimes\GetPrimes\obj\Debug\netcoreapp3.1\GetPrimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\badinfluence\Desktop\Csharp\GetPrimes\GetPrimes\obj\Debug\netcoreapp3.1\GetPrimes.AssemblyInfoInputs.cache
+C:\Users\badinfluence\Desktop\Csharp\GetPrimes\GetPrimes\obj\Debug\netcoreapp3.1\GetPrimes.AssemblyInfo.cs
+C:\Users\badinfluence\Desktop\Csharp\GetPrimes\GetPrimes\obj\Debug\netcoreapp3.1\GetPrimes.csproj.CoreCompileInputs.cache
+C:\Users\badinfluence\Desktop\Csharp\GetPrimes\GetPrimes\obj\Debug\netcoreapp3.1\GetPrimes.dll
+C:\Users\badinfluence\Desktop\Csharp\GetPrimes\GetPrimes\obj\Debug\netcoreapp3.1\GetPrimes.pdb
+C:\Users\badinfluence\Desktop\Csharp\GetPrimes\GetPrimes\obj\Debug\netcoreapp3.1\GetPrimes.genruntimeconfig.cache

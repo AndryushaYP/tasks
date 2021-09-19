@@ -1,0 +1,14 @@
+C:\Users\badinfluence\Desktop\Csharp\getProduct\getProduct\bin\Debug\netcoreapp3.1\getProduct.exe
+C:\Users\badinfluence\Desktop\Csharp\getProduct\getProduct\bin\Debug\netcoreapp3.1\getProduct.deps.json
+C:\Users\badinfluence\Desktop\Csharp\getProduct\getProduct\bin\Debug\netcoreapp3.1\getProduct.runtimeconfig.json
+C:\Users\badinfluence\Desktop\Csharp\getProduct\getProduct\bin\Debug\netcoreapp3.1\getProduct.runtimeconfig.dev.json
+C:\Users\badinfluence\Desktop\Csharp\getProduct\getProduct\bin\Debug\netcoreapp3.1\getProduct.dll
+C:\Users\badinfluence\Desktop\Csharp\getProduct\getProduct\bin\Debug\netcoreapp3.1\getProduct.pdb
+C:\Users\badinfluence\Desktop\Csharp\getProduct\getProduct\obj\Debug\netcoreapp3.1\getProduct.csproj.AssemblyReference.cache
+C:\Users\badinfluence\Desktop\Csharp\getProduct\getProduct\obj\Debug\netcoreapp3.1\getProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\badinfluence\Desktop\Csharp\getProduct\getProduct\obj\Debug\netcoreapp3.1\getProduct.AssemblyInfoInputs.cache
+C:\Users\badinfluence\Desktop\Csharp\getProduct\getProduct\obj\Debug\netcoreapp3.1\getProduct.AssemblyInfo.cs
+C:\Users\badinfluence\Desktop\Csharp\getProduct\getProduct\obj\Debug\netcoreapp3.1\getProduct.csproj.CoreCompileInputs.cache
+C:\Users\badinfluence\Desktop\Csharp\getProduct\getProduct\obj\Debug\netcoreapp3.1\getProduct.dll
+C:\Users\badinfluence\Desktop\Csharp\getProduct\getProduct\obj\Debug\netcoreapp3.1\getProduct.pdb
+C:\Users\badinfluence\Desktop\Csharp\getProduct\getProduct\obj\Debug\netcoreapp3.1\getProduct.genruntimeconfig.cache
