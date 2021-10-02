@@ -12,3 +12,17 @@ C:\Users\badinfluence\Desktop\Csharp\GetDistance\GetDistance\obj\Debug\netcoreap
 C:\Users\badinfluence\Desktop\Csharp\GetDistance\GetDistance\obj\Debug\netcoreapp3.1\GetDistance.dll
 C:\Users\badinfluence\Desktop\Csharp\GetDistance\GetDistance\obj\Debug\netcoreapp3.1\GetDistance.pdb
 C:\Users\badinfluence\Desktop\Csharp\GetDistance\GetDistance\obj\Debug\netcoreapp3.1\GetDistance.genruntimeconfig.cache
+C:\Users\badinfluence\Desktop\Csharp\tasks\GetDistance\GetDistance\bin\Debug\netcoreapp3.1\GetDistance.exe
+C:\Users\badinfluence\Desktop\Csharp\tasks\GetDistance\GetDistance\bin\Debug\netcoreapp3.1\GetDistance.deps.json
+C:\Users\badinfluence\Desktop\Csharp\tasks\GetDistance\GetDistance\bin\Debug\netcoreapp3.1\GetDistance.runtimeconfig.json
+C:\Users\badinfluence\Desktop\Csharp\tasks\GetDistance\GetDistance\bin\Debug\netcoreapp3.1\GetDistance.runtimeconfig.dev.json
+C:\Users\badinfluence\Desktop\Csharp\tasks\GetDistance\GetDistance\bin\Debug\netcoreapp3.1\GetDistance.dll
+C:\Users\badinfluence\Desktop\Csharp\tasks\GetDistance\GetDistance\bin\Debug\netcoreapp3.1\GetDistance.pdb
+C:\Users\badinfluence\Desktop\Csharp\tasks\GetDistance\GetDistance\obj\Debug\netcoreapp3.1\GetDistance.csproj.AssemblyReference.cache
+C:\Users\badinfluence\Desktop\Csharp\tasks\GetDistance\GetDistance\obj\Debug\netcoreapp3.1\GetDistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\badinfluence\Desktop\Csharp\tasks\GetDistance\GetDistance\obj\Debug\netcoreapp3.1\GetDistance.AssemblyInfoInputs.cache
+C:\Users\badinfluence\Desktop\Csharp\tasks\GetDistance\GetDistance\obj\Debug\netcoreapp3.1\GetDistance.AssemblyInfo.cs
+C:\Users\badinfluence\Desktop\Csharp\tasks\GetDistance\GetDistance\obj\Debug\netcoreapp3.1\GetDistance.csproj.CoreCompileInputs.cache
+C:\Users\badinfluence\Desktop\Csharp\tasks\GetDistance\GetDistance\obj\Debug\netcoreapp3.1\GetDistance.dll
+C:\Users\badinfluence\Desktop\Csharp\tasks\GetDistance\GetDistance\obj\Debug\netcoreapp3.1\GetDistance.pdb
+C:\Users\badinfluence\Desktop\Csharp\tasks\GetDistance\GetDistance\obj\Debug\netcoreapp3.1\GetDistance.genruntimeconfig.cache

@@ -1,48 +1,73 @@
 ﻿using System;
 using System.IO;
 using System.Text.RegularExpressions;
+using System.Collections.Generic;
 
 namespace GetDistance
 {
     class Program
     {
-        private static int CheckWord(string[] words, string word)
+        private static List<int> GetResultList(int count, int[] arr1, int[] arr2, List<int> result)
         {
-            int idx = 0;
-            if (Array.IndexOf(words, word) == -1)
+            if (count == arr1.Length)
             {
-                idx = -1;
+                return result;
             }
-            else
+            for (int i = 0; i < arr2.Length; i++)
             {
-                idx = Array.IndexOf(words, word);
+                result.Add(Math.Abs(arr1[count] - arr2[i]));
             }
-            return idx;
+            return GetResultList(count + 1, arr1, arr2, result);
         }
         static void Main(string[] args)
         {
+            List<int> allIdxFirstWord = new List<int>() {};
+            List<int> allIdxSecondWord = new List<int>() {};
+            List<int> resultList = new List<int>() { };
+
             string path;
-            int idxWordOne = 0;
-            int idxWordTwo = 0;
             string pattern = @"[-.?!)(,:]";
             string target = " ";
             Regex regex = new Regex(pattern);
             Console.WriteLine("Пожалуйста, введите путь до файла:");
             path = Console.ReadLine();
+            Console.WriteLine("Пожалуйста, введите первое слово:");
+            string firstWord = Console.ReadLine().ToLower();
+            Console.WriteLine("Пожалуйста, введите второе слово:");
+            string secondWord = Console.ReadLine().ToLower();
             string text = System.IO.File.ReadAllText(path).ToLower();
             string[] words = regex.Replace(text, target).Split(" ");
-            Console.WriteLine("Пожалуйста, введите первое слово:");
-            idxWordOne = CheckWord(words, Console.ReadLine().ToLower());
-            Console.WriteLine("Пожалуйста, введите второе слово:");
-            idxWordTwo = CheckWord(words, Console.ReadLine().ToLower());
-            if(idxWordOne == -1 || idxWordTwo == -1)
+
+            for(int i = 0; i < words.Length; i ++)
             {
-                Console.WriteLine("Введённое вами слово не найдено, попробуйте снова");
+                if(words[i] == firstWord)
+                {
+                    allIdxFirstWord.Add(i);
+                }
+                if(words[i] == secondWord)
+                {
+                    allIdxSecondWord.Add(i);
+                }
+            }
+
+            resultList = GetResultList(0, allIdxFirstWord.ToArray(), allIdxSecondWord.ToArray(), resultList);
+
+            if (allIdxFirstWord.ToArray().Length == 0)
+            {
+                Console.WriteLine($"Слово '{firstWord}' не найдено!");
+
+            } else if (allIdxSecondWord.ToArray().Length == 0)
+            {
+                Console.WriteLine($"Слово '{secondWord}' не найдено!");
+
             } else
             {
-                Console.WriteLine($"Расстояние между введённными вами словами: {Math.Abs(idxWordOne - idxWordTwo) - 1}");
+                int[] indexes = resultList.ToArray();
+                Array.Sort(indexes);
+                Console.WriteLine($"Минимальное расстояние: {indexes[0] - 1}");
+                Console.WriteLine($"Максимальное расстояние: {indexes[indexes.Length - 1] - 1}");
             }
-            ;
+            
         }
     }
 }

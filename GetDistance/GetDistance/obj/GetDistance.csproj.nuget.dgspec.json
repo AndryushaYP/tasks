@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\badinfluence\\Desktop\\Csharp\\GetDistance\\GetDistance\\GetDistance.csproj": {}
+    "C:\\Users\\badinfluence\\Desktop\\Csharp\\tasks\\GetDistance\\GetDistance\\GetDistance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\badinfluence\\Desktop\\Csharp\\GetDistance\\GetDistance\\GetDistance.csproj": {
+    "C:\\Users\\badinfluence\\Desktop\\Csharp\\tasks\\GetDistance\\GetDistance\\GetDistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\badinfluence\\Desktop\\Csharp\\GetDistance\\GetDistance\\GetDistance.csproj",
+        "projectUniqueName": "C:\\Users\\badinfluence\\Desktop\\Csharp\\tasks\\GetDistance\\GetDistance\\GetDistance.csproj",
         "projectName": "GetDistance",
-        "projectPath": "C:\\Users\\badinfluence\\Desktop\\Csharp\\GetDistance\\GetDistance\\GetDistance.csproj",
+        "projectPath": "C:\\Users\\badinfluence\\Desktop\\Csharp\\tasks\\GetDistance\\GetDistance\\GetDistance.csproj",
         "packagesPath": "C:\\Users\\badinfluence\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\badinfluence\\Desktop\\Csharp\\GetDistance\\GetDistance\\obj\\",
+        "outputPath": "C:\\Users\\badinfluence\\Desktop\\Csharp\\tasks\\GetDistance\\GetDistance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
